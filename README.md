@@ -11,8 +11,8 @@ I like computer science and staying up at night🌃
 
 <br>
 
-## About me:
-
+### About me:
+#
 - 🔭 I’m currently working on **portfolio website**
 
 - 🌱 I’m currently learning **ReactJS**
@@ -21,8 +21,8 @@ I like computer science and staying up at night🌃
 
 <br>
 
-<h2 align="left">Languages and Tools:</h2>
-
+### Languages and Tools:
+#
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -98,11 +98,14 @@ I like computer science and staying up at night🌃
 </a> 
 </p>
 
-<h2 align="left">Connect with me:</h2>
+### Connect with me:
+#
 
 <p align="left">
 <a href="https://linkedin.com/in/dhyuti tewani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyuti tewani" height="30" width="40" /></a>
 </p>
+
+# 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyuti&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhyuti"/></p>
 
