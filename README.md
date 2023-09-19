@@ -27,7 +27,8 @@
 <a href="https://linkedin.com/in/dhyuti tewani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyuti tewani" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyuti&show_icons=true&locale=en&layout=compact" alt="dhyuti" /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyuti&show_icons=true&locale=en" alt="dhyuti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyuti&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhyuti" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyuti&show_icons=true&locale=en&theme=tokyonight" alt="dhyuti" /></p>
 
 
 
