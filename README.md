@@ -97,6 +97,8 @@ I like computer science and staying up at night🌃
 </a> 
 </p>
 
+<br>
+
 ## Connect with me:
 
 <p align="left">
