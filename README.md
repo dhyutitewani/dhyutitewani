@@ -102,7 +102,7 @@ I like computer science and staying up at night🌃
 ## Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dhyuti-tewani-06b772210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyuti tewani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhyuti-tewani-06b772210/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyuti tewani" height="30" width="40" /></a>
 </p>
 
 # 
