@@ -3,7 +3,8 @@
 
 <br>
 
-####  I like computer science and staying up at night ^^ 🌃
+####  I like computer science and staying up at night 🌃
+<p>(✿◠‿◠)</p>
 <br>
 
 ## About me:
