@@ -1,13 +1,13 @@
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Mono&pause=1000&color=7D9CEB&width=535&lines=Hello+there!;I&apos;m+Dhyuti+Tewani.&size=25" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Mono&pause=1000&color=7D9CEB&width=535&lines=Hello+there!;I&apos;m+Dhyuti+Tewani.&size=27" alt="Typing SVG" /></a>
 
 <br>
 
-My name is Dhyuti Tewani, I am a computer science student.
-
+####  I like computer science and staying up at night 🌃
 <br>
 
 ## About me:
+
 - 🔭 I’m currently working on **portfolio website**
 
 - 🌱 I’m currently learning **ReactJS**
