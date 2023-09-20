@@ -6,7 +6,7 @@
 
 (っ＾▿＾)
 
-I like computer science and staying up at night🌃 
+I like computer science and staying up at night 🌃 
 
 <br>
 
