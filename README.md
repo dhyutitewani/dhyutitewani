@@ -16,7 +16,7 @@ I like computer science and staying up at night 🌃
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **dhyuti07@outlook.com**
+- 📫 How to reach me **dhyuti07@gmail.com**
 
 <br>
 
