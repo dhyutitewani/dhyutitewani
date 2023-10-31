@@ -20,6 +20,10 @@ I like computer science and staying up at night 🌃
 
 <br>
 
+[![An image of @dhyuti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhyuti)](https://holopin.io/@dhyuti)
+
+<br>
+
 ## Languages and Tools:
 
 <p align="left"> 
