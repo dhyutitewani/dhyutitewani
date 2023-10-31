@@ -14,7 +14,7 @@ I like computer science and staying up at night 🌃
 
 - 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **dhyuti07@gmail.com**
 
