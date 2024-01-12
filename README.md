@@ -16,7 +16,7 @@ I like computer science and staying up at night 🌃
 
 - 🌱 I’m currently learning ```AI/ML```
 
-- 📫 How to reach me ```dhyuti.tewani@gmail.com```
+- 📫 How to reach me ```dhyuti07@gmail.com```
 
 <br>
 
