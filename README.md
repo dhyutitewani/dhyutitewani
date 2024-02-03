@@ -10,17 +10,9 @@ I like computer science and staying up at night 🌃
 
 <br>
 
-## About me:
-
-- 🔭 I’m currently working on ```portfolio website```
-
-- 🌱 I’m currently learning ```AI/ML```
-
-- 📫 How to reach me ```dhyuti07@gmail.com```
-
-<br>
-
 # 
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyutitewani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhyutitewani"/></p>
 
