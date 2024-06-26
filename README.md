@@ -8,16 +8,6 @@
 
 I like computer science and staying up at night 🌃 
 
-<br>
-
-# 
-<br>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhyutitewani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhyutitewani"/></p>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhyutitewani&show_icons=true&locale=en&theme=tokyonight" alt="dhyutitewani"/></p>
-
 
 
 
